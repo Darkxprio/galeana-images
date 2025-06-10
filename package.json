@@ -1,0 +1,12 @@
+{
+  "name": "galeana-image-server",
+  "version": "1.0.0",
+  "description": "Servidor simple para las imágenes de Galeana Stream",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
